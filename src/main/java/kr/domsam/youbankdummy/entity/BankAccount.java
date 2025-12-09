@@ -84,4 +84,3 @@ public class BankAccount {
     @Column(name = "MDF_DTM")
     private LocalDateTime modDate;
 }
-
