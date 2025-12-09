@@ -2,8 +2,6 @@ package kr.domsam.youbankdummy.application;
 
 
 import kr.domsam.youbankdummy.Dummy;
-import kr.domsam.youbankdummy.entity.BankAccount;
-import kr.domsam.youbankdummy.entity.Customer;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
